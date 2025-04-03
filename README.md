@@ -1,7 +1,5 @@
 # Oioi, Valle aqui! 👋
 
-Bem-vindo(a) ao meu perfil do GitHub! 
-
 ## Sobre mim
 
 - 👨‍💻 Domínio de Linguagem em **Python, LUA, C++**.
