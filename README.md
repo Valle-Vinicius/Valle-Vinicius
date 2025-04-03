@@ -11,3 +11,6 @@
 
 - [SENAI](https://github.com/Valle-Vinicius/SENAI.git): Introdução dos projetos realizado pelo SENAI
 - [SENAI - Atividades](https://github.com/Valle-Vinicius/ATIVIDADES): Exercícios Realizados nas Aulas Ministradas pelo SENAI
+
+  ![Contributions Snake](github-contribution-grid-snake.svg)
+
