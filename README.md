@@ -1,16 +1,17 @@
-## Hi there 👋
+# Oioi, Valle aqui! 👋
 
-<!--
-**Valle-Vinicius/Valle-Vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! 
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Domínio de Linguagem em **Python, LUA, C++**.
+- 💡 Atualmente aprendendo sobre **HTML**.
+- ⚡ Curioso por **Backend**.
+  
+## 🚀 Projetos em destaque
+
+- [SENAI](https://github.com/Valle-Vinicius/SENAI.git): Introdução dos projetos realizado pelo SENAI
+- [SENAI - Atividades](https://github.com/Valle-Vinicius/ATIVIDADES): Exercícios Realizados nas Aulas Ministradas pelo SENAI
+
+## 📫 Como me encontrar?
+- [Email](viniciusvallerodrigues@gmail.com)
