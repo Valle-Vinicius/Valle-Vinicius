@@ -1,7 +1,7 @@
 # Oioi, Valle aqui! 👋
 
 ### 👨‍💻 Sobre Mim:
-Sou estudante de **Programação** no **SENAI**. Tenho 16 anos e estou aprendendo as linguagens **Python**, **LUA**, **C++** e agora também estou começando a estudar **HTML**. Quero conhecer mais **Backend** e estou sempre querendo melhorar meus conhecimentos!
+Sou estudante de **Programação** no **SENAI**. Tenho 17 anos e estou aprendendo as linguagens **Python**, **LUA**, **C++** e agora também estou começando a estudar **HTML**. Quero conhecer mais **Backend** e estou sempre querendo melhorar meus conhecimentos!
 
 ### 💻 Minhas Linguagens:
 
